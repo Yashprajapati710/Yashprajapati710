@@ -42,6 +42,10 @@
 * VS Code
 * AWS
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,git,github,vscode,aws" />
+</p>
+
 ---
 
 ## 📂 Featured Projects
@@ -69,3 +73,13 @@ Personal portfolio showcasing projects and skills.
 ## ⚡ Fun Fact
 
 I enjoy building real-world applications and continuously improving my development skills.
+
+## 📊 GitHub Stats
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashprajapati710&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashprajapati710&layout=compact)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Yashprajapati710)
