@@ -1,85 +1,115 @@
-# Hi 👋, I'm Yash Prajapati
-
-💻 Full Stack Developer | MERN Stack | Python & Django | AI & AWS Enthusiast
-
----
-
-## 🚀 About Me
-
-* 🔭 Building Web & AI Projects
-* 🌱 Currently Learning React, AWS & System Design
-* 💡 Passionate About Full Stack Development
-* 🎯 Goal: Become a Professional Software Engineer
-* ⚡ Always Learning New Technologies
+<h1 align="center">Hi, I'm Yash Prajapati</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Python & Django | AWS Enthusiast</h3>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+I am a passionate Full Stack Developer pursuing a B.Tech in Information Technology. I enjoy building scalable web applications, solving Data Structures & Algorithms problems, and continuously learning modern technologies. My current focus is on developing production-ready MERN applications while strengthening my problem-solving skills for Software Engineering roles.
+
+- Building Full Stack and AI-powered projects
+- Currently learning React, AWS, System Design, and Advanced DSA
+- Interested in Backend Development, Cloud Computing, and Web Technologies
+- Preparing for Software Engineering internships and interviews
+- Committed to writing clean, efficient, and maintainable code
+
+---
+
+## Technology Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
+</p>
 
 ### Frontend
 
-* HTML5
-* CSS3
-* JavaScript
-* React.js
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
 
 ### Backend
 
-* Node.js
-* Express.js
-* Python
-* Django
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
 
 ### Database
 
-* MongoDB
-* MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### Tools & Technologies
+### Tools & Platforms
 
-* Git
-* GitHub
-* VS Code
-* AWS
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,git,github,vscode,aws" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,postman" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🧠 ReMindMe
+### ReMindMe
 
-AI-powered memory assistant for elderly people with dementia and Alzheimer's support.
+A MERN Stack application designed to support Alzheimer's and Dementia patients through memory anchors, reminders, accessibility features, and caregiver management.
 
-### 📋 Todo Application
-
-Task management application built using React.
-
-### 🌐 Portfolio Website
-
-Personal portfolio showcasing projects and skills.
+**Tech Stack:** React, Node.js, Express.js, MongoDB
 
 ---
 
-## 📫 Connect With Me
+### AI Personal Finance & Wealth Vault
 
-* LinkedIn: [www.linkedin.com/in/yash-prajapati-032166319](http://www.linkedin.com/in/yash-prajapati-032166319)
+An AI-assisted finance management platform that analyzes expenses, tracks budgets, and provides financial insights using MERN Stack and Python.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Python
 
 ---
 
-## ⚡ Fun Fact
+### LeetCode Solutions
 
-I enjoy building real-world applications and continuously improving my development skills.
+A growing collection of JavaScript solutions for LeetCode problems, documenting my DSA journey and interview preparation.
 
-## 📊 GitHub Stats
+**Tech Stack:** JavaScript, Git, GitHub
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashprajapati710&show_icons=true)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashprajapati710&layout=compact)
+## Currently Learning
 
-## 🔥 GitHub Streak
+- Advanced JavaScript
+- React.js
+- Node.js & Express.js
+- MongoDB
+- AWS Cloud
+- System Design
+- Data Structures & Algorithms
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Yashprajapati710)
+---
+
+## GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yashprajapati710&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashprajapati710&layout=compact&theme=github_dark" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Yashprajapati710&theme=github-dark" />
+</p>
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/yash-prajapati-032166319
+- GitHub: https://github.com/Yashprajapati710
+
+---
+
+## Career Objective
+
+To contribute as a Software Engineer by building scalable, efficient, and user-focused applications while continuously improving my technical expertise in Full Stack Development, Cloud Computing, and Problem Solving.
