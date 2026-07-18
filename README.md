@@ -1,146 +1,145 @@
-# LeetCode Solutions
+# Hi 👋, I'm Yash Prajapati
 
-A collection of my **JavaScript (ES6+)** solutions to LeetCode problems. This repository documents my **Data Structures & Algorithms (DSA)** journey, where I consistently solve problems, write optimized solutions, and improve my problem-solving skills while preparing for **Software Engineering interviews**.
-
----
-
-## Technology Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)
+💻 Full Stack Developer | MERN Stack | Python & Django | AI & AWS Enthusiast
 
 ---
 
-## Repository Structure
+## 🚀 About Me
 
-```text
-LeetCode-Solutions/
-│
-├── README.md
-│
-├── Easy/
-│   ├── 1-Two-Sum.js
-│   ├── 9-Palindrome-Number.js
-│   ├── 26-Remove-Duplicates-from-Sorted-Array.js
-│   ├── 27-Remove-Element.js
-│   ├── 35-Search-Insert-Position.js
-│   ├── 66-Plus-One.js
-│   ├── 88-Merge-Sorted-Array.js
-│   ├── 121-Best-Time-to-Buy-and-Sell-Stock.js
-│   ├── 125-Valid-Palindrome.js
-│   ├── 136-Single-Number.js
-│   ├── 169-Majority-Element.js
-│   ├── 217-Contains-Duplicate.js
-│   ├── 242-Valid-Anagram.js
-│   ├── 268-Missing-Number.js
-│   ├── 283-Move-Zeroes.js
-│   ├── 509-Fibonacci-Number.js
-│   ├── 977-Squares-of-a-Sorted-Array.js
-│   └── 1929-Concatenation-of-Array.js
-│
-└── Medium/
-    └── 167-Two-Sum-II-Input-Array-Is-Sorted.js
-```
+- 🔭 Building Web & AI Projects
+- 🌱 Currently Learning React, AWS, System Design & DSA
+- 💡 Passionate About Full Stack Development
+- 🎯 Goal: Become a Professional Software Engineer
+- ⚡ Solving LeetCode Problems Daily
 
 ---
 
-## Solved Problems
+## 📈 DSA Progress
 
-### Easy
+### LeetCode Journey
 
-| Problem No. | Problem Name | Difficulty |
-|------------:|-----------------------------------------------|------------|
-| 1 | Two Sum | Easy |
-| 9 | Palindrome Number | Easy |
-| 26 | Remove Duplicates from Sorted Array | Easy |
-| 27 | Remove Element | Easy |
-| 35 | Search Insert Position | Easy |
-| 66 | Plus One | Easy |
-| 88 | Merge Sorted Array | Easy |
-| 121 | Best Time to Buy and Sell Stock | Easy |
-| 125 | Valid Palindrome | Easy |
-| 136 | Single Number | Easy |
-| 169 | Majority Element | Easy |
-| 217 | Contains Duplicate | Easy |
-| 242 | Valid Anagram | Easy |
-| 268 | Missing Number | Easy |
-| 283 | Move Zeroes | Easy |
-| 509 | Fibonacci Number | Easy |
-| 977 | Squares of a Sorted Array | Easy |
-| 1929 | Concatenation of Array | Easy |
-
-### Medium
-
-| Problem No. | Problem Name | Difficulty |
-|------------:|-------------------------------------------------------|------------|
-| 167 | Two Sum II - Input Array Is Sorted | Medium |
-
----
-
-## Topics Covered
-
-- Arrays
-- Strings
-- Hash Map
-- Hash Set
-- Two Pointers
-- Three Pointers
-- Binary Search
-- Mathematics
-- Sorting
-- Frequency Counting
-- In-place Array Modification
-- Brute Force
-- Optimized Approach
-- Time & Space Complexity Analysis
-
----
-
-## Goals
-
-- Solve LeetCode problems consistently.
-- Master Data Structures & Algorithms.
-- Improve analytical and problem-solving skills.
-- Prepare for Software Engineering interviews.
-- Build a strong GitHub portfolio.
-- Progress from Easy → Medium → Hard problems.
-
----
-
-## Progress
-
-| Category | Status |
-|----------|--------|
+| Category | Progress |
+|----------|---------:|
 | Total Problems Solved | **19** |
 | Easy | **18** |
 | Medium | **1** |
 | Hard | **0** |
 | Language | JavaScript (ES6+) |
-| Latest Problem | **167 - Two Sum II - Input Array Is Sorted** |
+
+### Current Roadmap
+
+- ✅ Arrays
+- ✅ Strings
+- ✅ Hash Map
+- ✅ Hash Set
+- ✅ Two Pointers
+- ✅ Binary Search (Basics)
+- 🟡 Sliding Window *(In Progress)*
+- ⏳ Stack
+- ⏳ Queue
+- ⏳ Linked List
+- ⏳ Tree
+- ⏳ Heap
+- ⏳ Graph
+- ⏳ Dynamic Programming
+
+### DSA Repository
+
+👉 **LeetCode Solutions Repository**
+
+**https://github.com/Yashprajapati710/LeetCode-Solutions**
 
 ---
 
-## Upcoming Topics
+## 🛠️ Tech Stack
 
-- Sliding Window
-- Prefix Sum
-- Binary Search
-- Stack
-- Queue
-- Linked List
-- Tree
-- Heap (Priority Queue)
-- Graph
-- Dynamic Programming
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+### Backend
+
+- Node.js
+- Express.js
+- Python
+- Django
+
+### Database
+
+- MongoDB
+- MySQL
+
+### Tools & Technologies
+
+- Git
+- GitHub
+- VS Code
+- AWS
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,git,github,vscode,aws" />
+</p>
 
 ---
 
-## Author
+## 📂 Featured Projects
 
-**Yash Prajapati**
+### 🧠 ReMindMe
 
-GitHub: **https://github.com/Yashprajapati710**
+AI-powered memory assistant for elderly people with dementia and Alzheimer's support.
 
-LeetCode: **https://leetcode.com/u/Yash__2005/**
+**Tech Stack:** React • Node.js • Express.js • MongoDB
+
+---
+
+### 📋 Todo Application
+
+Task management application built using React.
+
+**Tech Stack:** React • JavaScript
+
+---
+
+### 🌐 Portfolio Website
+
+Personal portfolio showcasing projects, skills, and achievements.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/yash-prajapati-032166319
+
+---
+
+## 📊 GitHub Stats
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashprajapati710&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashprajapati710&layout=compact&theme=github_dark)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Yash__2005&theme=github-dark)
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Solve **100+ LeetCode Problems**
+- 📚 Master Data Structures & Algorithms
+- 🌐 Build 5+ Full Stack Projects
+- ☁️ Learn AWS & Cloud Deployment
+- 🤖 Explore AI Integration in Web Applications
+- 💼 Secure a Software Engineering Internship
+
+---
+
+## 💡 Quote
+
+> *"Consistency beats intensity. One solved problem every day is better than solving many once in a while."*
