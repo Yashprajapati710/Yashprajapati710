@@ -115,17 +115,9 @@ Personal portfolio showcasing projects, skills, and achievements.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 LeetCode Stats
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashprajapati710&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashprajapati710&layout=compact&theme=github_dark)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Yash__2005&theme=github-dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Yash__2005?theme=dark&font=Karma&ext=contest)
 
 ---
 
