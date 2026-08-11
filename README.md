@@ -1,57 +1,79 @@
-# Hi 👋, I'm Yash Prajapati
+# Hi, I'm Yash Prajapati
 
-💻 Full Stack Developer | MERN Stack | Python & Django | AI & AWS Enthusiast
+**Full Stack Developer | MERN Stack | Python | DSA | AWS & AI Enthusiast**
 
----
-
-## 🚀 About Me
-
-- 🔭 Building Web & AI Projects
-- 🌱 Currently Learning React, AWS, System Design & DSA
-- 💡 Passionate About Full Stack Development
-- 🎯 Goal: Become a Professional Software Engineer
-- ⚡ Solving LeetCode Problems Daily
+I am a B.Tech Information Technology student passionate about building scalable web applications, solving Data Structures & Algorithms problems, and exploring AI-powered applications.
 
 ---
 
-## 📈 DSA Progress
+## About Me
 
-### LeetCode Journey
-
-| Category | Progress |
-|----------|---------:|
-| Total Problems Solved | **19** |
-| Easy | **18** |
-| Medium | **1** |
-| Hard | **0** |
-| Language | JavaScript (ES6+) |
-
-### Current Roadmap
-
-- ✅ Arrays
-- ✅ Strings
-- ✅ Hash Map
-- ✅ Hash Set
-- ✅ Two Pointers
-- ✅ Binary Search (Basics)
-- 🟡 Sliding Window *(In Progress)*
-- ⏳ Stack
-- ⏳ Queue
-- ⏳ Linked List
-- ⏳ Tree
-- ⏳ Heap
-- ⏳ Graph
-- ⏳ Dynamic Programming
-
-### DSA Repository
-
-👉 **LeetCode Solutions Repository**
-
-**https://github.com/Yashprajapati710/LeetCode-Solutions**
+- Building full-stack web applications using the MERN stack
+- Learning and implementing Data Structures & Algorithms
+- Exploring AWS, Cloud Deployment, and AI integration
+- Interested in scalable backend systems and real-world problem solving
+- Consistently solving LeetCode problems
+- Goal: Become a Professional Software Engineer
 
 ---
 
-## 🛠️ Tech Stack
+## DSA & LeetCode
+
+I regularly practice Data Structures & Algorithms using JavaScript.
+
+### Current Progress
+
+| Topic | Status |
+|---|---|
+| Arrays | Completed |
+| Strings | Completed |
+| Hash Map | Completed |
+| Hash Set | Completed |
+| Two Pointers | Completed |
+| Binary Search | Basics Completed |
+| Stack | Completed |
+| Sliding Window | In Progress |
+| Queue | Upcoming |
+| Linked List | Upcoming |
+| Tree | Upcoming |
+| Heap | Upcoming |
+| Graph | Upcoming |
+| Dynamic Programming | Upcoming |
+
+### Stack Problems Practiced
+
+- Valid Parentheses
+- Minimum Remove to Make Valid Parentheses
+- Asteroid Collision
+- Daily Temperatures
+- Online Stock Span
+- Next Greater Element II
+- Sum of Subarray Minimums
+- Remove K Digits
+- 132 Pattern
+- Remove Duplicate Letters
+- Largest Rectangle in Histogram
+- Min Stack
+- Remove All Adjacent Duplicates in String II
+- Decode String
+- Valid Parenthesis String
+- Simplify Path
+
+### LeetCode Solutions
+
+[View My LeetCode Solutions](https://github.com/Yashprajapati710/LeetCode-Solutions)
+
+[View My LeetCode Profile](https://leetcode.com/u/Yash__2005/)
+
+---
+
+## Technical Skills
+
+### Languages
+
+- JavaScript (ES6+)
+- Python
+- SQL
 
 ### Frontend
 
@@ -59,6 +81,8 @@
 - CSS3
 - JavaScript
 - React.js
+- Bootstrap
+- Tailwind CSS
 
 ### Backend
 
@@ -66,72 +90,148 @@
 - Express.js
 - Python
 - Django
+- Flask
 
-### Database
+### Databases
 
 - MongoDB
 - MySQL
+- PostgreSQL
 
-### Tools & Technologies
+### Cloud & DevOps
+
+- AWS S3
+- AWS CloudFront
+- AWS CloudWatch
+- Docker
+- GitHub Actions
+
+### Tools
 
 - Git
 - GitHub
 - VS Code
-- AWS
+- Postman
+- MongoDB Compass
+- npm
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,git,github,vscode,aws" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,python,django,flask,mongodb,mysql,postgres,aws,docker,git,github,postman,vscode" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 🧠 ReMindMe
+### VantageCart AI
 
-AI-powered memory assistant for elderly people with dementia and Alzheimer's support.
+**AI-powered E-Commerce Analytics & Business Intelligence Platform**
+
+A full-stack e-commerce platform combining AI-powered recommendations, visual product search, business intelligence dashboards, multilingual chatbot capabilities, and machine learning.
+
+**Tech Stack:** React • Tailwind CSS • Node.js • Express.js • MongoDB • Python • Flask • Pandas • Recharts • Gemini API
+
+**Key Features:**
+- AI-powered product recommendations
+- Visual product search and similarity matching
+- AI shopping assistant
+- Business Intelligence dashboard
+- Multilingual chatbot
+- Product analytics and ML-based insights
+- Automated bill generation and email confirmation
+
+---
+
+### ReMindMe
+
+**Memory Assistance & Caregiver Support Platform**
+
+A MERN-based application designed to help elderly users with memory-related difficulties through memory anchors, reminders, voice input, text-to-speech, location-based triggers, and caregiver management.
 
 **Tech Stack:** React • Node.js • Express.js • MongoDB
 
----
-
-### 📋 Todo Application
-
-Task management application built using React.
-
-**Tech Stack:** React • JavaScript
-
----
-
-### 🌐 Portfolio Website
-
-Personal portfolio showcasing projects, skills, and achievements.
+**Key Features:**
+- Memory Anchors
+- Patient and Caregiver Dashboards
+- Voice Input
+- Text-to-Speech
+- Photo and Voice Notes
+- Location-based reminders
+- Emergency support features
+- Accessibility-focused interface
 
 ---
 
-## 📫 Connect With Me
+### Todo Application
 
-- LinkedIn: https://www.linkedin.com/in/yash-prajapati-032166319
+A task management application built to practice modern frontend development and application state management.
+
+**Tech Stack:** React • JavaScript • CSS
 
 ---
 
-## 📈 LeetCode Stats
+### Portfolio Website
+
+Personal portfolio website showcasing my projects, technical skills, achievements, and development journey.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
+---
+
+## GitHub Activity
+
+I actively work on:
+
+- Data Structures & Algorithms
+- Full Stack Development
+- MERN Stack Projects
+- Python Development
+- AWS & Cloud
+- AI-powered Web Applications
+
+---
+
+## LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Yash__2005?theme=dark&font=Karma&ext=contest)
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 
-- 🚀 Solve **100+ LeetCode Problems**
-- 📚 Master Data Structures & Algorithms
-- 🌐 Build 5+ Full Stack Projects
-- ☁️ Learn AWS & Cloud Deployment
-- 🤖 Explore AI Integration in Web Applications
-- 💼 Secure a Software Engineering Internship
+- Solve 100+ LeetCode problems
+- Strengthen Data Structures & Algorithms
+- Build production-ready full-stack applications
+- Build and deploy AI-integrated web applications
+- Improve AWS & Cloud skills
+- Learn Docker and CI/CD
+- Contribute to open-source projects
+- Secure a Software Engineering Internship
 
 ---
 
-## 💡 Quote
+## Connect With Me
 
-> *"Consistency beats intensity. One solved problem every day is better than solving many once in a while."*
+**LinkedIn:**  
+https://www.linkedin.com/in/yash-prajapati-032166319
+
+**LeetCode:**  
+https://leetcode.com/u/Yash__2005/
+
+**GitHub:**  
+https://github.com/Yashprajapati710
+
+---
+
+## Currently Learning
+
+```text
+Data Structures & Algorithms
+        ↓
+Advanced Full Stack Development
+        ↓
+AWS & Cloud Deployment
+        ↓
+Docker & CI/CD
+        ↓
+AI Integration in Web Applications
